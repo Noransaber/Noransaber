@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">hey there i'm Noran 🌹 </h1>
+<h1 align="center">More than welcome here 🤩, i'm Noran 🌹 </h1>
 
 ###
 
@@ -26,7 +26,7 @@
 I am presently engaged in the process of acquiring knowledge and skills to become a software engineer.
 
 
-## 🌐 Socials:
+## ❤️ Let's get connected:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noran-saber-abdelfattah) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@noransaber685) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Noransaber11) 
 
 # 💻 Tech Stack:
