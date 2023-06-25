@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">More than welcome here 🤩, i'm Noran 🌹 </h1>
+<h1 align="center">More than welcome here👋, i'm Noran 🌹</h1>
 
 ###
 
