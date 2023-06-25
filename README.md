@@ -25,7 +25,7 @@
 # 💫 About Me:
 I am presently engaged in the process of acquiring knowledge and skills to become a software engineer.
 
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" /> I’m *currently learning* how to **flex README** on my **profile** 💪.
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" />
 
 - 👯 I’m looking to collaborate for `Dev Projects`
 
