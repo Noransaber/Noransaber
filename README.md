@@ -27,8 +27,6 @@ I am presently engaged in the process of acquiring knowledge and skills to becom
 
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20vw" />
 
-- 👯 I’m looking to collaborate for `Dev Projects`
-
 ## ❤️ Let's get connected:
 <p>
  <a href="https://twitter.com/Noransaber11" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/noran-saber-abdelfattah-6198471ba/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a><a href="https://medium.com/@noransaber685" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height="30px"/></a>
