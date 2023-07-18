@@ -1,5 +1,5 @@
 <div align="center">
- <img src="./images/18a4949fc9c8067172d3b96e302e7097.gif">
+ <img src="./images/Noran.gif">
 </div>
 
 ###
